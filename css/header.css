@@ -1,0 +1,28 @@
+.cabeçalho{
+     background-color: #2E948A;
+   
+}
+
+.navegação-topo{
+    max-width: 1440px;
+    min-width: 600px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px 5.6vw;   
+    
+}
+
+.navegação-topo-menu{
+    display: flex;
+    font-size: 20px;
+    font-weight: 700;
+    
+}
+
+.navegação-topo-menu-item a{
+    color: #FDFDFD;
+    padding: 0 20px;
+
+}
