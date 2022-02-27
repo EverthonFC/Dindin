@@ -47,17 +47,19 @@
 }
 
 .cursos-home{    
-    Width: 1440px;
-    Height: 730px;
+    Width: 100%;
+    Height: 100%;
     margin-top: 170px;
-    background-color: #e5e5e5;
-        
-}
+    background-color: #e5e5e5;   
+    
+
+} 
 
 .cards-cursos-home{
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    
    
 }
 
@@ -68,6 +70,7 @@
     align-items: center;
     width: 344px;
     height: 504px;
+    margin: 100px 0 100px 0;
     
 }
 
