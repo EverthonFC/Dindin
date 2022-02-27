@@ -1,6 +1,6 @@
 .wrapper{
     max-width: 1440px;
-    min-width: 720px;
+    min-width: 600px;
     margin: 0 auto;
 }
 
@@ -171,12 +171,11 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
 
-
 }
 
 .item-cards-blog-home{
     width: 319px;
-    height: 255px;
+    height: 318px; 
 }
 
 .item-cards-blog-home h2{
