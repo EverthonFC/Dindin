@@ -34,14 +34,6 @@
     margin: 90px 20px 90px 120px;
  }
 
-
-.separador-cursos{
-    display: block;
-    background: #c4c4c4;
-    width: 90vw;
-    height: 4px;
-    margin: 0 auto;
-}
 .lista-cursos h1{
  font-size: 35px;
  font-weight: 700;
