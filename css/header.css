@@ -28,3 +28,11 @@
     padding: 0 20px;
 
 }
+/* separador */
+.separador{
+    display: block;
+    background: #c4c4c4;
+    width: 90vw;
+    height: 2px;
+    margin: 0 auto;
+}
