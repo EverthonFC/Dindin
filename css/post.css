@@ -1,0 +1,71 @@
+.cursos-post{    
+    Width: 100%;
+    Height: 100%;
+    margin-top: 170px;
+     
+    
+
+} 
+
+.cards-cursos-post{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+}
+
+.item-cards-cursos-post{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    width: 340px;
+    height: 504px;
+    margin: 100px 0 100px 0;
+    
+}
+
+.item-cards-cursos-post .ilustra-poupando {
+    width: 288px;
+    height: 270px;
+    margin: 0 auto;
+}
+
+.item-cards-cursos-post .ilustra-investimento{
+    width: 238px;
+    height: 270px;
+    margin: 0 auto;
+}
+
+.item-cards-cursos-post .ilustra-independencia{
+    width: 187px;
+    height: 270px;
+    margin: 0 auto;
+}
+
+.item-cards-cursos-post h2{
+    font-size: 25px;
+    font-weight: 700;
+    color: #FF4081;
+
+}
+
+.item-cards-cursos-post h3{
+    font-size: 17px;
+    font-weight: 300;
+    color: #000;
+
+}
+
+.item-cards-cursos-post a{
+    font-size: 20px;
+    font-weight: 400;
+    color: #fff;
+    border: #FF4081 2px solid;
+    background-color: #FF4081;
+    border-radius: 62px;
+    padding: 8px 26px;
+    width: 50%;
+    text-align: center;
+}
