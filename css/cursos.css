@@ -13,7 +13,8 @@
 }
 .curso-investimento, .curso-poupando, .curso-independencia{
     display: flex;
-    width: 1100px;
+    min-width: 900px;
+    max-width: 1100px;
 
     
 }
@@ -21,17 +22,17 @@
 .curso-investimento img{
    width: 380px;
    height: 381px;
-   margin: 90px 20px 90px 120px;
+   margin: 90px 20px 90px 8vw;
 }
 .curso-poupando img{
     width: 380px;
     height: 381px;
-    margin: 90px 20px 90px 120px;
+    margin: 90px 20px 90px 8vw;
  }
  .curso-independencia img{
     width: 380px;
    
-    margin: 90px 20px 90px 120px;
+    margin: 90px 20px 90px 8vw;
  }
 
 .lista-cursos h1{
@@ -61,6 +62,7 @@
 .curso-conteudo{
     display: flex;
     flex-direction: column;
-    gap: 40px;
+    gap: 30px;
     margin-top: 100px;
+    
 }

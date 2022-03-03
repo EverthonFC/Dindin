@@ -1,6 +1,5 @@
 .wrapper{
     max-width: 1440px;
-    min-width: 600px;
     margin: 0 auto;
 }
 
@@ -8,13 +7,14 @@
     width: 1028px;
     height: 521px;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     align-items: center;
     margin: 0 auto;
 }
 .conteudo-banner-home{
     display: flex;
     flex-direction: column;
+   
     
 }
 
@@ -201,3 +201,4 @@
  
     width: 20%;
 }
+
