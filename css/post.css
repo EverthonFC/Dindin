@@ -1,9 +1,45 @@
+.artigo-post{
+    max-width: 1440px;
+
+}
+.artigo-post h1{
+  font-size: 50px;
+  font-weight: 500;
+  color: #FF4081;  
+  text-align: center;
+}
+
+.artigo-post h3{
+    font-size: 18px;
+    font-weight: 300;
+    color: #9d9d9d;
+    text-align: center;
+
+}
+
+.artigo-post img{
+    width: 1032px;
+    height: 465px;
+    margin: 74px 200px;
+}
+
+.conteudo-artigo-post{
+    max-width: 1000px;
+    margin: 74px 200px;
+    
+}
+
+.conteudo-artigo-post h2{
+    font-size: 18px;
+    font-weight: 700;
+    color: #419488;
+}
+
 .cursos-post{    
     Width: 100%;
     Height: 100%;
     margin-top: 170px;
-     
-    
+       
 
 } 
 
