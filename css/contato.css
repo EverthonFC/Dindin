@@ -1,0 +1,38 @@
+.contato {
+    display: flex;
+    justify-content: space-evenly;
+}
+form h1{
+    font-size: 40px;
+    font-weight: 700;
+    color: #ff4081;
+    margin-bottom: 40px;
+}
+form input{
+    display: block;
+    width: 400px;
+    height: 35px;
+    border-radius: 7px;
+    margin-bottom: 15px;
+}
+form textarea{
+    display: block;
+    width: 400px;
+    border-radius: 7px;
+    margin-bottom: 15px;
+}
+
+button{
+    margin-top: 15px;
+    color: #fff;
+    background-color: #ff4081;
+    width: 100px;
+    height: 35px;
+    border-radius: 50px;
+    margin-bottom: 100px;
+}
+
+.contato img{
+    width: 444px;
+    height: 444px;
+}
